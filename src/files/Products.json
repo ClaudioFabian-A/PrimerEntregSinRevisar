@@ -1,0 +1,95 @@
+[
+  {
+    "id": 3,
+    "title": "loppp",
+    "description": "ñlpo",
+    "price": 330,
+    "thumbnail": "http",
+    "code": "k5ñp456",
+    "stock": 20,
+    "category": "lopa",
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "D",
+    "description": "caja",
+    "price": 10,
+    "thumbnail": "https",
+    "code": 39,
+    "stock": 100
+  },
+  {
+    "id": 5,
+    "title": "E",
+    "description": "caja",
+    "price": 10,
+    "thumbnail": "https",
+    "code": 3,
+    "stock": 100
+  },
+  {
+    "id": 6,
+    "title": "F",
+    "description": "caja",
+    "price": 10,
+    "thumbnail": "https",
+    "code": 42,
+    "stock": 100
+  },
+  {
+    "id": 7,
+    "title": "G",
+    "description": "caja",
+    "price": 10,
+    "thumbnail": "https",
+    "code": 9,
+    "stock": 100
+  },
+  {
+    "id": 8,
+    "title": "H",
+    "description": "caja",
+    "price": 10,
+    "thumbnail": "https",
+    "code": 20,
+    "stock": 100
+  },
+  {
+    "id": 9,
+    "title": "I",
+    "description": "caja",
+    "price": 10,
+    "thumbnail": "https",
+    "code": 56,
+    "stock": 100
+  },
+  {
+    "id": 10,
+    "title": "J",
+    "description": "caja",
+    "price": 10,
+    "thumbnail": "https",
+    "code": 89,
+    "stock": 100
+  },
+  {
+    "thumbnail": "url",
+    "id": 11,
+    "title": "product1",
+    "description": "description1",
+    "price": 1500,
+    "category": "prueba",
+    "status": "true",
+    "code": "abc123",
+    "stock": 500
+  },
+  {
+    "title": "product1",
+    "price": 1500,
+    "thumbnail": "url",
+    "code": "235689",
+    "stock": 500,
+    "id": 12
+  }
+]
