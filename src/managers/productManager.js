@@ -1,6 +1,6 @@
 
 
-import fs from 'fs';
+import fs from "fs";
 
 
 export default class productManager {
@@ -11,7 +11,7 @@ export default class productManager {
 
         try {
             if (fs.existsSync(this.path)) {
-                const data = await fs.promises.readFile(this.path, 'utf-8');
+                const data = await fs.promises.readFile(this.path, "utf-8");
                 const produ = JSON.parse(data);
                 return produ;
             } else {
